@@ -2,19 +2,18 @@ package com.array.problems;
 
 /**
  * Question :
- * 1. Find the largest element in array
+ * 1. Find the Second largest element in array
  */
 
 /**
  * @author Satish
  */
 
-public class LargestNumber {
-
+public class SecondLargestElement {
 	public static void main(String[] args) {
-		
-	int a[]= {10,20,30};
-		
+
+		int a[] = { 10, 20, 30, 50,30 , 56};
+
 		int total = a.length;
 		int temp;
 
@@ -27,6 +26,6 @@ public class LargestNumber {
 				}
 			}
 		}
-		System.out.println( "Largest Number in array " + a[total - 1]);
+		System.out.println("Largest Number in array " + a[total - 2]);
 	}
 }
