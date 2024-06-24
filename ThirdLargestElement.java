@@ -2,7 +2,7 @@ package com.array.problems;
 
 /**
  * Question :
- * 1. Find the Third largest element in array
+ * 1. Find the Third largest element in array 
  */
 
 /**
@@ -12,7 +12,7 @@ package com.array.problems;
 public class ThirdLargestElement {
 	public static void main(String[] args) {
 
-		int a[] = { 10, 20, 30, 50,30 , 56};
+		int a[] = { 10, 20, 30, 50,30 ,87, 33,56};
 
 		int total = a.length;
 		int temp;
