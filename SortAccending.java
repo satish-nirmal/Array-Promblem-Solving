@@ -29,7 +29,7 @@ public class SortAccending {
 	            }     
 	        }    
 	 
-	        
+	        // for print array list as assending order
 	        for(int i = 0 ; i < total ; i++) {
 	        	System.out.print(arr[i] + " ");
 	        }
