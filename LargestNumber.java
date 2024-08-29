@@ -2,7 +2,7 @@ package com.array.problems;
 
 /**
  * Question :
- * 1. Find the largest element in array
+ * 1. Find the largest element in given array
  */
 
 /**
