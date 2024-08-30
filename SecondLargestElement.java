@@ -1,13 +1,5 @@
 package com.array.problems;
 
-/**
- * Question :
- * 1. Find the Second largest element in array
- */
-
-/**
- * @author Satish
- */
 
 public class SecondLargestElement {
 	public static void main(String[] args) {
