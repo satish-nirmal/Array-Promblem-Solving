@@ -1,13 +1,5 @@
 package com.array.problems;
 
-/**
- * Question :
- * 1. Find the Smallest element in array 
- */
-
-/**
- * @author Satish
- */
 
 public class SmallestElement {
 
