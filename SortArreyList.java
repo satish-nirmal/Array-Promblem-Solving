@@ -2,7 +2,7 @@ package com.array.problems;
 
 /**
  * Question :
- * 1. Sort the array list using invoking sort() method of the Arrays class 
+ * 1. Sort the array list Arrays.sort()
  */
 
 /**
