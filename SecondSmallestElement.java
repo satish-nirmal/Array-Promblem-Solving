@@ -1,14 +1,5 @@
 package com.array.problems;
 
-/**
- * Question :
- * 1. Find the Second Smallest element in array 
- */
-
-/**
- * @author Satish
- */
-
 public class SecondSmallestElement {
 	
 		    public static void main(String[] args) {
