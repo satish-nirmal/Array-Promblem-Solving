@@ -1,13 +1,5 @@
 package com.array.problems;
 
-/**
- * Question :
- * 1. Find the Sum of Given array 
- */
-
-/**
- * @author Satish
- */
 
 public class SumOfArray {
 
