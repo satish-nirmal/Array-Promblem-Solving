@@ -1,6 +1,12 @@
 package com.array.problems;
 
-
+/**
+ * Question :
+ * 1. Find the SumOfArray from the given array
+ */
+/**
+ * @author Satish Nirmal
+ */
 public class SumOfArray {
 
 	public static void main(String[] args) {

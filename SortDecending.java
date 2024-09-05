@@ -4,12 +4,9 @@ package com.array.problems;
  * Question :
  * 1. Find the Descending order of array 
  */
-
 /**
  * @author Satish
  */
-
-
 public class SortDecending {
 	
 	public static void main(String[] args) {

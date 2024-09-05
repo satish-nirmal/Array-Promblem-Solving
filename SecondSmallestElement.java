@@ -1,5 +1,7 @@
 package com.array.problems;
 
+
+
 public class SecondSmallestElement {
 	
 		    public static void main(String[] args) {

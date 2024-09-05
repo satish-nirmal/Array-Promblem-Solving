@@ -1,5 +1,12 @@
 package com.array.problems;
 
+/**
+ * Question :
+ * 1. Find the SecondLargestElement from the given array
+ */
+/**
+ * @author Satish Nirmal
+ */
 
 public class SecondLargestElement {
 	public static void main(String[] args) {

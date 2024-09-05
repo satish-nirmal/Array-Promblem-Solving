@@ -1,10 +1,18 @@
 package com.array.problems;
 
+/**
+ * Question :
+ * 1. Find the OddEvenNumber from the given array
+ */
+/**
+ * @author Satish Nirmal
+ */
+
 public class OddEvenNumber {
 	public static void main(String[] args) {
 
 		int a[] = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
-		
+
 		// this logic for odd and even numbers in above array[]
 
 		for (int i = 0; i < a.length; i++) {
